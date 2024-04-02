@@ -1,0 +1,82 @@
+.footer-contenant{
+    display: flex;
+    flex-direction: row;
+    background: red;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+}
+.footer-coordonnées{
+    color: white;
+}
+.footer-tel{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.footer-tel-numero p{
+    font-size: 1.5rem;
+}
+.footer-adresse{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.footer-horraires{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.footer-tel-emoticone{
+    font-size: 2rem;
+}
+.footer-adress-emo{
+    font-size: 2rem;
+}
+.footer-adress-text p{
+    font-size: 1.5rem;
+}
+.footer-horraires-emo{
+    font-size: 2rem;
+}
+.footer-horraires-text p{
+    font-size: 1.5rem;
+}
+.footer-contact{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+.footer-mentions{
+    text-decoration: none;
+    color: white;
+}
+.footer-copyright{
+    text-decoration: none;
+    color: white;
+}
+.footer-liens-contenant{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+.footer-liens{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.footer-contact button{
+    color: white;
+    font-size: 25px;
+    border-radius: 2rem;
+    width: 15rem;
+    height: 4rem;
+    background-color: #9E9B9C;
+}
+.liens-adress{
+    text-decoration: none;
+    color: white;
+}
