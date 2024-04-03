@@ -1,11 +1,11 @@
-import dpi from "../../assets/dpi.jpeg"
+
+import Nav from "../Nav/nav"
 function Header (){
-    return(
-        <div className="hearder-contenant">
-            <div className="header-logo">
-                <img src={dpi} alt="dourlens protection incendie"></img>
-            </div>
+    return( 
+        <div className="header-contenant">
+                    <Nav/>
         </div>
+
     )
 }
 export default Header

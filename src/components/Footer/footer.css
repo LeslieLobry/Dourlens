@@ -2,9 +2,9 @@
     display: flex;
     flex-direction: row;
     background: red;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 2rem;
+    padding:1rem;
 }
 .footer-coordonnées{
     color: white;
@@ -79,4 +79,11 @@
 .liens-adress{
     text-decoration: none;
     color: white;
+}
+
+@media screen and (max-width:750px){
+    .footer-contenant{
+        display: flex;
+        flex-direction: column;
+    }
 }

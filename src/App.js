@@ -5,6 +5,7 @@ import Erreur from "./pages/Erreur/erreur";
 import Contact from "./pages/Contact/contact";
 import Mentions from "./pages/Mentions/mentions";
 import Footer from "./components/Footer/footer";
+import "./app.css"
 
 function App() {
   return (
