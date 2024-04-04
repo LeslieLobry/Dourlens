@@ -1,0 +1,47 @@
+[
+    {
+        "id":"21",
+        "titre":"Extincteur", 
+        "img":"https://i.postimg.cc/KjbPCDKg/pexels-nothing-ahead-4805958.jpg"
+    }, 
+    {
+        "id":"22",
+        "titre":"R.I.A", 
+        "img":"https://i.postimg.cc/yNTdjqq9/pexels-oluwaseun-duncan-189474.jpg"
+    },
+    {
+        "id":"23",
+        "titre":"Alarme incendie", 
+        "img":"https://i.postimg.cc/w38KmvBp/i-Stock-2036414132.jpg"
+    },
+    {
+        "id":"24",
+        "titre":"Plan de sécurité", 
+        "img":"https://i.postimg.cc/hPDZ26Jn/i-Stock-1500233286.jpg"
+    }, 
+    {
+        "id":"25",
+        "titre":"Désenfumage", 
+        "img":"https://i.postimg.cc/1tYZChpY/i-Stock-1267461925.jpg"
+    }, 
+    {
+        "id":"26",
+        "titre":"Défibrillateur", 
+        "img":"https://i.postimg.cc/xChXZW5d/pexels-patrick-17527783.jpg"
+    }, 
+    {
+        "id":"27",
+        "titre":"Formation Extincteur", 
+        "img":"https://i.postimg.cc/K8szs6Jg/i-Stock-1942974053.jpg"
+    }, 
+    {
+        "id":"28",
+        "titre":"Equipements", 
+        "img":"https://i.postimg.cc/FKr6SW2W/i-Stock-935714362.jpg"
+    }, 
+    {
+        "id":"29",
+        "titre":"Éclairage", 
+        "img":"https://i.postimg.cc/j2r0W22r/pexels-monicore-134065.jpg"
+    }
+]

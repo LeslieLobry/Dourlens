@@ -1,0 +1,36 @@
+[
+    {
+        "id":"10", 
+        "title":"Installation et vérification de Système de Sécurité incendie dans les Hauts-de-France", 
+        "contenu":"Un feu peut engendrer des conséquences dévastatrices, tant sur le plan humain que matériel. En l'absence d'une intervention rapide d'un individu compétent dans l'utilisation d'un extincteur, les dégâts peuvent être considérables, voire mettant en danger.C'est pour cette raison qu'il est impératif pour certains établissements de posséder le matériel nécessaire pour éteindre les flammes ou du moins en limiter significativement la propagation. Les premières minutes suivant l'apparition d'un incendie sont critiques, car c'est à ce moment-là qu'il est encore possible de l'éteindre.Les types d'établissements soumis à cette obligation, ou du moins fortement encouragés à être équipés pour faire face aux incendies, comprennent :",
+        "list":[
+            "Les collectivités et les bâtiments publics",
+            "Les ERP (Établissements Recevant du Public)",
+            "Les ERT (Établissements Recevant des Travailleurs)", 
+            "Les EHPAD",
+            "Les immeubles, maisons et appartements"
+        ],
+        "photo":""
+    },
+    {
+        "id":"11", 
+        "title":"Fourniture de Système de Sécurité Incendie (SSI)", 
+        "contenu":"DPI (Dourlens - Protection - Incendie) s'engage à fournir, installer, vérifier et entretenir tout type d'extincteurs et de matériel essentiel pour la prévention, l'évacuation et l'extinction des incendies.Nous vendons nos équipements d'incendie dans toute la France et nous intervenons pour l'installation, la vérification et la maintenance principalement dans le Nord-Pas-de-Calais",
+        "list":[
+            "Extincteur et RIA",
+            "Plan de sécurité",
+            "Défibrilateur",
+            "Équipements pour incendie",
+            "Alarme Incendie",
+            "Désenfumage",
+            "Éclairage de sécurité"
+        ],
+        "photo":""
+    },
+    {
+        "id":"12", 
+        "title":"Formation Sécurité Incendie dans les Hauts-de-France", 
+        "contenu":"DPI (Dourlens - Protection - Incendie) offre également des services de formation à l'utilisation d'un extincteur. Cette formation, simple et rapide, permet d'acquérir les réflexes nécessaires en cas de déclenchement d'un incendie. Devenez maître de la situation et apprenez à maîtriser les flammes grâce à nos formations et fournitures pour la lutte contre les incendies.",
+        "photo":""
+    }
+]

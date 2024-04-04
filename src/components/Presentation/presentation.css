@@ -19,3 +19,21 @@
 .presentation-text p{
     font-size: 18px;
 }
+.presentation-valeurs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.presentation-valeurs-titre{
+    color: red;
+    text-decoration: underline;
+}
+.presentation-valeurs-titre h2{
+    font-size: 30px;
+}
+.presentation-valeurs-contenu{
+    display: flex;
+    font-size: 18px;
+    gap: 25px;
+}

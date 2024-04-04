@@ -16,7 +16,7 @@ function Nav (){
                         <a href="/" className="navbar__link">Accueil</a>
                     </li>
                     <li className="nav__items">
-                        <a href="/" className="navbar__link">Nos prestations</a>
+                        <a href="/prestation" className="navbar__link">Nos prestations</a>
                     </li>
                     <li className="nav__items">
                         <a href="/Contact" className="navbar__link">Contact</a>

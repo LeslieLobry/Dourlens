@@ -1,7 +1,7 @@
 
 function Erreur (){
     return(
-        <di></di>
+       <div>Erreur 404</div>
     )
 }
 export default Erreur
