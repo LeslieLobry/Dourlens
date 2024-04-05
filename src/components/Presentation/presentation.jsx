@@ -4,7 +4,8 @@ import Carousel from "../Carousel/carousel"
 function Presentation (){
 return(
 <div className="presentation-contenant">
-    <Carousel/>
+   <div className="presentation-titre"><h2>Dourlens - Protection - Incendie</h2></div>
+   <div className="presentation-titre2"><h2>Fourniture, Installation et Maintenance Système de Sécurité Incendie (SSI)</h2></div>
     <div className="presentation-text">
         <p>Spécialiste dans le domaine des systèmes de sécurité incendie (SSI) depuis plus de 12 ans, DPI vous offre ses
             services pour la fourniture, l'installation, la vérification et la maintenance de tout équipement d'alarme.
@@ -24,6 +25,7 @@ return(
             <li>🚨Une relation de proximité avec le client</li>
         </ul>
     </div>
+    <Carousel/>
 </div>
 )
 }

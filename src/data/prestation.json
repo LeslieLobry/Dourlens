@@ -2,46 +2,211 @@
     {
         "id":"21",
         "titre":"Extincteur", 
-        "img":"https://i.postimg.cc/KjbPCDKg/pexels-nothing-ahead-4805958.jpg"
-    }, 
+        "img":"https://i.postimg.cc/KjbPCDKg/pexels-nothing-ahead-4805958.jpg",
+        "titre1":"Fourniture, Installation et Maintenance d'Extincteurs" ,
+        "titre2":"Vente et Vérification d'Extincteurs",
+        "titre3":"",
+        "titre4":"",
+        "texte1":"DPI (Dourlens - Protection - Incendie) offre aux professionnels et aux particuliers dans toute la France des systèmes de sécurité incendie. Nous nous chargeons également de la maintenance, de l'installation et de la mise aux normes des équipements incendie pour les établissements basés dans la région Nord-Pas-de-Calais / Hauts-de-France. Des localités telles que Hazebrouck, Lille, Dunkerque, Armentières, Saint-Omer, Bailleul, Wormhout, Steenvoorde, Bergues et Cassel font déjà confiance à notre expertise. Pourquoi pas vous ?",
+        "texte2":"L'extincteur, outil essentiel pour lutter contre les incendies et les départs de feu, est disponible en diverses variantes. Tous nos modèles d'extincteurs sont certifiés conformes aux normes NF et CE, garantissant ainsi la sécurité de votre installation. Nous proposons la fourniture, l'installation et la vérification de tous types d'extincteurs.",
+        "texte3":"Les deux types de pression d'extincteur selon vos besoins et obligations réglementaires :",
+        "texte4":"Note :",
+        "list1":[
+            "🧯Extincteur à eau : Pour éteindre les feux de classe A et B.",
+            "🧯Extincteur à poudre : Pour les feux de classe A et B.",
+            "🧯Extincteur à Gaz : Pour éteindre les deux de classe B et E.",
+            "🧯Extincteur à Mousse : Pour gérer les feux de classe B.",
+            "🧯Extincteur à CO2 : Pour les feux de classe B."
+        ],
+        "list2":[
+            "🧯Extincteur à pression permanente. L'extincteur est rempli d'azote sous pression qui permet d'expulser l'agent extincteur. Relativement léger et peu coûteux, l'extincteur à pression permanente possède néanmoins une durée de vie inférieure à l'extincteur à pression auxiliaire.",
+            "🧯Extincteur à pression auxiliaire. La pression est envoyée par une cartouche de gaz annexe que l'on doit percuter pour qu'elle s'active. Plus lourd et plus cher que l'extincteur à pression permanente, il demande cependant moins d'entretien et possède une meilleure durée de vie."
+        ],
+        "list3":[
+            "🔥Feux de classe A : Ce sont les feux dits 'secs'. Il s'agit de la combustion d'éléments solides qui forment des braises (bois, tissu, carton, papier, coton, paille...).",
+            "🔥Feux de classe B : Feux de type 'gras'. Il s'agit de la combustion de liquide inflammable (essence, alcool, paraffine...). Les feux électriques font partis de la classe B.",
+            "🔥Feux de classe E : Il s'agit d'une ancienne classe de feu, autrefois utilisée pour désigner le feu d'origine électrique. Même si les feux d'origine électrique sont désormais de classe B, ce type de classe est encore utilisée par certains professionnels."
+        ]
+    },
     {
         "id":"22",
         "titre":"R.I.A", 
-        "img":"https://i.postimg.cc/yNTdjqq9/pexels-oluwaseun-duncan-189474.jpg"
+        "img":"https://i.postimg.cc/yNTdjqq9/pexels-oluwaseun-duncan-189474.jpg",
+        "titre1":"Fourniture, Installation et Maintenance RIA" ,
+        "titre2":"Fourniture et Maintenance de RIA",
+        "titre3":"Les robinets d'incendie armés se présentent sous différentes formes, chacune possédant ses propres spécificités :",
+        "titre4":"",
+        "texte1":"Le Robinet d'Incendie Armé (RIA) est constitué d'un tuyau enroulé autour d'un cylindre, également connu sous le nom de dévidoir, et équipé d'une petite lance à incendie. Il est directement connecté au réseau principal d'eau pour être constamment alimenté en cas d'urgence. Grâce à la pression générée, le RIA permet de projeter de l'eau à une distance suffisante pour lutter contre les flammes tout en maintenant une distance de sécurité adéquate.",
+        "texte2":"Les robinets d'incendie armés représentent un type d'extincteur hautement efficace en cas d'incendie. Leur capacité et leur durée d'action permettent à toute personne, même non formée à leur utilisation, de lutter contre les flammes avec un équipement capable de ralentir considérablement leur propagation.        Installés à l'intérieur des établissements professionnels et des lieux recevant du public, les RIA sont positionnés dans les zones à risque élevé d'incendie. Il est important de noter que l'utilisation de ces extincteurs ne remplace pas l'intervention des pompiers ; ils servent principalement à contenir l'incendie plutôt qu'à l'éteindre complètement.",
+        "texte3":"",
+        "list2":[
+            "🧯RIA tournant pivotant. Parmi les RIA les plus répandus, les tournants pivotants sont posés sur un mur et permettent un débattement de 180° afin de dispoer de toute la mobilité nécessaire pour combatte l'incendie.",
+            "🧯RIA tournant fixe. Très répandu aussi, ce type de RIA ne peut pas être décollé du mur pour pivoter, idéal pour les endroits éxigus. Aussi efficac qu'un RIA tournant pivotant, le tournant fixe offre une mobilité moindre.",
+            "🧯RIA compact 360. Plus adapté en extérieur (camping, guinguette, lieu événementiel...), ce type de RIA qui peut pivoter à 360° s'installe là où aucun support mural n'est disponible."
+        ],
+        "list3":[],
+        "list1":[]
     },
     {
         "id":"23",
         "titre":"Alarme incendie", 
-        "img":"https://i.postimg.cc/w38KmvBp/i-Stock-2036414132.jpg"
+        "img":"https://i.postimg.cc/w38KmvBp/i-Stock-2036414132.jpg",
+        "titre1":"Vente et Installation d'Alarme Incendie",
+        "titre2":"Maintenance Alarme Incendie",
+        "titre3":"Réglementation Alarme Type 4",
+        "titre4":"Alarme Intrusion et Vidéosurveillance",
+        "texte2":"DPI (Dourlens - Protection - Incendie) vous garantit une installation par un professionnel qualifié. Ceci vous évite toute éventuelle erreur d'installation qui pourrait nuire à la sécurité de l'établissement, ou de la maison, concerné. Une alarme placée au mauvais endroit peut se déclencher pour un dégagement de fumée qui n'est pas émise par un incendie (de la vapeur provenant d'une salle de bain par exemple) ou bien ne pas se déclencher car située trop loin du foyer de l'incendie.        Notre expert repère les endroits optimaux pour installer une ou plusieurs alarmes incendie au sein de votre ERP, ERT ou maison. Nous nous assurons aussi de leur conformité ainsi que de vérifier que les composants de l'installation communiquent bien entre eux.Les types d'alarme que nous proposons pour la vente, l'installation et la vérification sont les suivantes :",
+        "texte1":"À première vue, l'installation d'une alarme incendie semble ne nécessiter aucune expertise spécifique. Une personne ayant des compétences de bricolage basiques pourra aisément fixer un détecteur de fumée de manière sécurisée. Cependant, pour assurer son efficacité réelle, il est crucial de ne pas la placer n'importe où.",
+        "texte3":"Ce système d'alarme sonore est obligatoire dans plusieurs types d'établissements tels que :",
+        "texte4":"DPI (Dourlens - Protection - Incendie) fournit, installe et vérifie les alarmes anti intrusion des particuliers et professionnels. Protégez-vous des visites malvenues grâce à une installation effectuée pas un professionnel qualifié. Nos alarmes anti intrusion sont entièrement sans fil et uniquement de la marque Daitem, afin de vous assurer la meilleure qualité et garantir votre sécurité.",
+        "list1":[
+            "🚨Alarme de détection. Alarme la plus commune et présente dans beaucoup d'établissements et habitations en France. Le détecteur de fumée se déclenche à la moindre anomalie.",
+            "🚨Alarme d'évacuation. Aussi connu sous alarme de type 4, il s'agit d'une alarme sonore à activer manuellement dès la constatation d'un départ de feu."
+        ],
+        "list2":[
+            "✔️ ERP (Établissement Recevant du Public) et ERT (֤Établissement Recevant des Travailleurs). Bibliothèque, musée, lieu de culte, salle de sport, banques, bâtiment administratif, restaurants, industrie, etc...",
+            "✔️ Bâtiment accueillant, en permanence ou de manière régulière, plus de 50 personnes. Bâtiment d'association, maison des jeunes, immeuble d'habitation, etc...",
+            "✔️ Établissement où sont manipulés des matières inflammables. Atelier, industrie, entrepôt, gestion de déchets, etc..."
+    ],
+        "list3":[]
     },
     {
         "id":"24",
         "titre":"Plan de sécurité", 
-        "img":"https://i.postimg.cc/hPDZ26Jn/i-Stock-1500233286.jpg"
+        "img":"https://i.postimg.cc/hPDZ26Jn/i-Stock-1500233286.jpg",
+        "titre1":"Fourniture et Installation de Plan de Sécurité" ,
+        "titre2":"Ce que doit contenir un Plan d'Évacuation",
+        "titre3":"Plan d'intervention SST (Sauveteur secouriste du travail)",
+        "titre4":"",
+        "texte1":"Les plans d'évacuation constituent des éléments essentiels des systèmes de sécurité incendie, souvent impératifs, pour protéger les individus en cas d'urgence. Ils doivent être présents à chaque étage et sortie de secours dans divers établissements, notamment les ERP (Établissements Recevant du Public) et ERT (Établissements Recevant des Travailleurs), tels que les bibliothèques, musées, lieux de culte, salles de sport, banques, bâtiments administratifs, restaurants, industries, etc. De plus, ils sont requis dans les bâtiments accueillant régulièrement plus de 50 personnes, comme les maisons des jeunes, immeubles d'habitation, etc.DPI (Dourlens - Protection - Incendie) propose des services d'installation de plans d'évacuation conformes à la norme NFX 08-070, garantissant les couleurs, formes, tailles et emplacements adéquats pour ces dispositifs de signalisation.L'installation de ces plans de sécurité représente le moyen le plus efficace d'assurer une évacuation organisée et rapide en cas d'incendie. Cette signalétique standardisée favorise la coordination des réactions en situation d'urgence, réduisant ainsi les risques de chaos.",
+        "texte2":"Le plan d'évacuation doit inclure toutes les directives et schémas nécessaires pour une compréhension immédiate en cas d'incendie. (À noter que les consignes, symboles et pictogrammes doivent être changés dès lors qu'il y a une modification dans l'agencement du bâtiment ou dans l'installation du système de sécurité incendie.)Les symboles doivent être clairs et facilement lisibles pour être interprétés en quelques secondes seulement. Typiquement, un plan d'évacuation comporte les éléments suivants (avec des variations possibles en fonction du type d'établissement) :",
+        "texte3":"La présence d'un salarié disposant de la formation SST (sauveteur secouriste du travail) est obligatoire suivant le domaine d'activité de l'entreprise. À partir du moment où un risque est présent dans l'atelier, sur le chantier, dans l'entrepôt ou même au sein de bureaux, il est impératif d'avoir au moins un salarié formé et donc la signalétique adaptée; le plan d'intervention SST.le plan d'intervention SST se présente généralement sous la forme d'un logigramme qui indique les étapes à suivre en fonction du cas de figure qui se présente. Les 4 grandes étapes décrites par un plan d'intervention sont les suivantes :",
+        "list1":[
+            "🧯Les sorties de secours.",
+            "🧯Le chemin pour accéder à la sortie de secours.",
+            "🧯L'emplacement des lieux de rassemblement et zones de refuge.",
+            "🧯L'emplacement des système de sécurité incendie (extincteurs, alarmes...) et des armoires à pharmacie.",
+            "🧯Les numéros de secours (pompier, SAMU et parfois un numéro d'urgence d'entreprise).",
+            "🧯L'emplacement des arrêts centralisés du gaz, de l'électricité voire aussi des chaudières."
+        ],
+        "list3":[],
+        "list2":["🔥Protéger. Il s'agit toujours de la première action de sauvetage qui consiste à mettre la victime à l'abri. Le sauveteur doit analyser la situation au plus vite, examiner les dangers persistants (incendie, fuite de gaz, chute d'objets...) puis évacuer la victime.",
+        "🔥Examiner. La phase d'examen de la victime permet de planifier les prochaines actions à faire pour éviter toute dégradation de son état physique. Il s'agit par exemple d'identifier si la victime saigne abondamment, si elle est capable de respirer ou si elle consciente. Cette étape est cruciale pour déterminer les informations qui seront transmises aux secouristes.",
+        "🔥Faire alerter ou alerter. Il s'agit de prévenir, au sein de l'entreprise ou en dehors de l'entreprise, les personnes formées et équipées pour prendre en charge la victime. l'idéal est de se munir d'un téléphone portable pour joindre les pompiers (18) ou le SAMU (15) afin de pouvoir rester à côté de la victime lors de l'appel. Cet appel très court doit être une synthèse précise et concise de la nature de l'accident, de l'état de santé de la victime et des actions déjà engagées.",
+        "🔥Secourir. La phase de secours dépend de l'état de santé de la victime. Il y a 8 types principaux d'accident auquel le plan d'intervention SST permet de faire face : Saignement abondant, étouffement, malaise, brûlures, douleur qui entrave certains mouvements, plaie, pas de réponse mais respiration, aucune respiration."
+    ]
     }, 
     {
         "id":"25",
         "titre":"Désenfumage", 
-        "img":"https://i.postimg.cc/1tYZChpY/i-Stock-1267461925.jpg"
+        "img":"https://i.postimg.cc/1tYZChpY/i-Stock-1267461925.jpg",
+        "titre1":"Vente et Installation d'Équipement de Désenfumage" ,
+        "titre2":"Installation et Vérification du Désenfumage",
+        "titre3":"Les différents types de désenfumage",
+        "titre4":"Installation et Vérification de Porte Coupe-Feu",
+        "texte1":"DPI (Dourlens - Protection - Incendie) propose la fourniture et l'installation du matériel de désenfumage indispensable aux entreprises, aux collectivités et aux particuliers du Nord-Pas-de-Calais. Garantissez une protection optimale et la conformité aux normes de sécurité de votre secteur d'activité grâce à des équipements de qualité installés et vérifiés par un spécialiste de la sécurité.",
+        "texte2":"Le désenfumage a pour objectif d'éliminer rapidement et efficacement la fumée d'un espace clos en utilisant des ouvertures telles que les trappes de désenfumage. La fumée dégagée lors d'un incendie présente un danger réel, l'asphyxie par inhalation étant souvent plus mortelle que les flammes elles-mêmes. En plus des dommages humains, les dommages matériels causés par la fumée peuvent également être considérables.En plus de prévenir l'accumulation de fumées toxiques dans un espace confiné, le désenfumage permet également de limiter l'élévation excessive de la température à l'intérieur du bâtiment. Certains matériaux perdent significativement en résistance à des températures élevées, ce qui peut entraîner l'effondrement de certaines parties de la structure.Le désenfumage présente également d'autres avantages en termes de sécurité, tels que:",
+        "texte3":"Il est nécessaire de mettre en place deux types de désenfumage dans un ERP, une collectivité ou une entreprise. Chaque type d'établissement et d'activité est soumis à ses propres réglementations. Cependant, certaines règles universelles s'appliquent, telles que l'interdiction d'installer un désenfumage mécanique dans un escalier afin d'éviter de rediriger les fumées et de garantir l'accès à celui-ci.Les installation s de désenfumage doivent obligatoirement faire l'objet d'une vérification annuelle. DPI (Dourlens - Protection - Incendie) vous garantir une vérification dans le respect des normes de sécurité. Les deux types de désenfumage sont :",
+        "texte4":"La présence de portes coupe-feu est essentielle pour garantir la conformité d'un bâtiment, qu'il s'agisse d'un immeuble résidentiel, d'un ERP ou d'un établissement industriel. Leur emplacement est déterminé selon les normes de sécurité spécifiques à chaque type de construction.Les portes coupe-feu jouent un rôle crucial en isolant les zones touchées par l'incendie afin de faciliter l'évacuation des occupants. Leur composition répond à des réglementations rigoureuses et permet de ralentir considérablement la propagation du feu en confinant l'incendie dans un espace délimité. Placées stratégiquement dans le bâtiment, comme au niveau des escaliers ou des locaux à déchets, les portes coupe-feu constituent des dispositifs passifs anti-incendie hautement efficaces.",
+        "list1":[
+            "🧯Faciliter l'évacuation. Suivant où elle est située, la fenêtre de désenfumage peut servir à évacuer les gens. Étant donné qu'une ouverture de désenfumage doit respecter une taille minimum (pas moins de 20cm d'ouverture), il est parfois possible de s'en servir comme sortie d'évacuation.",
+            "🧯Faciliter l'accès des secours. De la même manière que l'évacuation, la fenêtre de désenfumage peut aussi être utilisé comme accès d'entrée pour les pompiers et secouristes.",
+            "🧯Limiter la propagation de l'incendie. Notamment en évitant les montées en chaleur extrême qui faciliteraient l'embrasement du bâtiment et de sa structure."
+        ],
+        "list2":[
+            "🔥 Le désenfumage naturel. Il s'agit du système de désenfumage le plus rudimentaire car il consiste à utiliser les ouvertures et conduits qui communiquent avec l'extérieur, une fenêtre de toit par exemple. Les systèmes de désenfumage ne sont cependant pas que de simples fenêtres, ils doivent être positionnés de sorte à évacuer un maximum de fumée. Le désenfumage naturel est obligatoire dans les bâtiment de grand volume comme les ERP (établissements recevant du public) et les locaux industriels.",
+            "🔥 Le désenfumage mécanique. Ce système de désenfumage fonctionne avec des ventilations et des conduits qui aspire et redirige le flux de la fumée pour l'acheminer vers l'extérieur. Contrôlé par un boitier électrique, les trappes et ventilations de désenfumage peuvent être contrôlés à distance et être automatisées afin de se déclencher en même temps que l'alarme incendie."
+        ],
+        "list3":[]
     }, 
     {
         "id":"26",
         "titre":"Défibrillateur", 
-        "img":"https://i.postimg.cc/xChXZW5d/pexels-patrick-17527783.jpg"
+        "img":"https://i.postimg.cc/xChXZW5d/pexels-patrick-17527783.jpg",
+        "titre1":"Fourniture et Maintenance de Défibrillateur" ,
+        "titre2":"Défibrillateur : Quelles sont les obligations pour les ERP",
+        "titre3":"Défibrillateur : Quelles Obligations pour les Entreprises ?",
+        "titre4":"Qui peut Utiliser un Défibrillateur ?",
+        "texte1":"Le défibrillateur, souvent désigné par l'acronyme DAE pour Défibrillateur Automatisé Externe, est un équipement médical crucial pour traiter les arrêts cardiaques soudains et potentiellement mortels. Depuis leur déploiement en France à partir de 2007, les défibrillateurs ont déjà contribué à sauver des dizaines de milliers de vies.",
+        "texte2":"Depuis leur introduction, les obligations relatives aux défibrillateurs automatisés externes (DAE) n'ont cessé d'évoluer pour renforcer la sécurité. DPI (Dourlens - Protection - Incendie) accompagne les établissements recevant du public, les administrations, les collectivités et les entreprises dans la fourniture, l'installation, la signalisation et la maintenance de leurs défibrillateurs.Par exemple, depuis 2019, il est désormais obligatoire de bien signaler la présence d'un DAE aux abords des ERP ou des lieux publics. Depuis 2021, un plus grand nombre de lieux sont concernés par l'installation obligatoire d'un défibrillateur, ainsi que par la signalisation appropriée pour une intervention rapide en cas d'urgence.",
+        "texte3":"Pour les entreprises, le code du travail ne prescrit aucune obligation de posséder un défibrillateur au sein de leurs locaux. Néanmoins, la responsabilité de l'employeur peut être mise en cause car il est tenu de garantir la santé et la sécurité de ses employés sur leur lieu de travail. Par conséquent, il est vivement recommandé de disposer d'un défibrillateur si l'une des conditions suivantes est remplie :",
+        "texte4":"En pratique, tout individu peut recourir à un défibrillateur automatisé externe pour venir en aide à une personne victime d'un arrêt cardiaque. Cependant, il est vivement recommandé que cette intervention soit effectuée par une personne formée aux gestes de premiers secours ainsi qu'à l'utilisation d'un défibrillateur.L'utilisation d'un défibrillateur implique diverses étapes, depuis la protection initiale de la victime jusqu'à sa prise en charge par des secouristes, nécessitant un certain niveau de compétence. Cependant, en l'absence de personne formée à proximité, un individu non formé peut néanmoins suivre les instructions précises affichées sur le défibrillateur pour effectuer les actions requises.",
+        "list1":[],
+        "list2":[
+            "🧍Un grand nombre de personnes se trouvent rassemblées dans un même lieu.",
+            "🧍Une proportion considérable de ces personnes ont 50 ans et plus.",
+            "🧍Les occupants du lieu sont engagés dans des efforts physiques soutenus.",
+            "🧍Certains individus présentent des fragilités, comme des problèmes de santé ou cardiaques.",
+            "🧍Il existe des risques spécifiques liés à l'activité, tels que l'électrocution ou la noyade.",
+            "🧍Les centres de secours sont situés à une distance relativement importante."
+    ],
+        "list3":[]
     }, 
     {
         "id":"27",
         "titre":"Formation Extincteur", 
-        "img":"https://i.postimg.cc/K8szs6Jg/i-Stock-1942974053.jpg"
+        "img":"https://i.postimg.cc/K8szs6Jg/i-Stock-1942974053.jpg",
+        "titre1":"Formation Extincteur Nord-Pas-de-Calais" ,
+        "titre2":"Public concerné",
+        "titre3":"",
+        "titre4":"",
+        "texte1":"DPI (Dourlens - Protection - Incendie) propose un accompagnement complet à toute personne désirant acquérir les compétences nécessaires à la manipulation d'extincteurs pour faire face à un incendie en cas de besoin. Devenez capable de prendre le contrôle de la situation en cas de déclenchement d'un feu grâce à notre formation approfondie. Cette formation, d'une durée d'environ 2 heures, se divise en une partie théorique et une partie pratique, offrant ainsi une vision complète de la compréhension du feu et des méthodes pour le combattre.",
+        "texte2":"Tout Public. Groupe de 10 à 15 personnes.",
+        "texte3":"",
+        "list1":[
+            ],
+        "list2":[],
+        "list3":[]
     }, 
     {
         "id":"28",
         "titre":"Equipements", 
-        "img":"https://i.postimg.cc/FKr6SW2W/i-Stock-935714362.jpg"
+        "img":"https://i.postimg.cc/FKr6SW2W/i-Stock-935714362.jpg",
+        "titre1":"Fourniture d'Équipement Incendie" ,
+        "titre2":"",
+        "titre3":"",
+        "titre4":"",
+        "texte1":"DPI (Dourlens - Protection - Incendie) propose aux entreprises une gamme complète d'équipements et de consommables pour la prévention et la lutte contre les incendies. Parmi nos produits disponibles, vous trouverez des extincteurs, des RIA, des plans de sécurité, des éclairages de secours, ainsi que divers accessoires indispensables pour la gestion des situations d'incendie.Explorez notre sélection d'équipements pour répondre à vos besoins spécifiques en matière de sécurité incendie :",
+        "texte2":"",
+        "texte3":"",
+        "list1":[
+            "✔️  Couverture anti-feu",
+            "✔️  Bac à sable incendie",
+            "✔️  Seau incendie",
+            "✔️  Pelle incendie",
+            "✔️  Fusée pour feu de cheminée",
+            "✔️  Housse pour extincteur",
+            "✔️  Housse RIA",
+            "✔️  Bâche chauffante pour RIA"            
+        ],
+        "list2":[],
+        "list3":[]
     }, 
     {
         "id":"29",
         "titre":"Éclairage", 
-        "img":"https://i.postimg.cc/j2r0W22r/pexels-monicore-134065.jpg"
+        "img":"https://i.postimg.cc/j2r0W22r/pexels-monicore-134065.jpg",
+        "titre1":"Fourniture et Installation d'Éclairage de Sécurité" ,
+        "titre2":"Pourquoi l'Éclairage de Sécurité?",
+        "titre3":"Les Types d'Éclairage de Sécurité",
+        "titre4":"Quelles Obligations ?",
+        "texte1":"L'éclairage de secours, constitué de diodes électroluminescentes (LED), est un dispositif essentiel permettant de signaler les voies d'évacuation menant à la sortie de secours la plus proche. Son objectif principal est de guider les individus de manière simple et claire pour évacuer les lieux en toute sécurité. Équipés d'une batterie interne, ces systèmes d'éclairage sont conçus pour rester opérationnels en cas de défaillance du système d'éclairage principal.",
+        "texte2":"Le système d'éclairage de sécurité possède deux rôles principaux :",
+        "texte3":"Il existe trois types d'éclairage de sécurité qui sont les suivants :",
+        "texte4":"L'installation d'éclairage de sécurité est obligatoire dans les immeubles d'habtation, les étalissements recevant des travailleurs(ERT) ainsi que dans les établissement recevant du public (ERP). Chaque type d'établissement se doit de respecter les normes et obligations d'installation d'éclairage de sécurité. Certaines règles s'appliquent néanmoins à tous : ",
+        "list2":[
+            "💡Les BAES (Blocs Autnomes d'Éclairage de Sécurité). Ce sont les blocs de secours lumineux qui balisent le chemin d'évacuation à suivre en cas d'incendie. Ces blocs sont alimentés de manière autonome afin de pouvoir continuer à fonctionner en cas de panne de l'éclairage principal.",
+            "💡Les BAEH (Blocs Autonomes d'Éclairage pour Habitation). Leur fonctionnement est similaire aux BAES mais ne servent pas tout à faire la même utilité. Un BAEH dégage moins de lumière mais pendant une période bien plus étendues (5h d'éclairage contre 1h pour les BAES). Ils servent donc principalement d'éclairage d'ambiance plus que d'éclairage d'évacuation.",
+            "💡Les LSC (Luminaire sur Source Centralisée). Installés dans les bâtiments qui accueillent plus de 700 personnes, les LSC garantissent une signalétique lue de tous et facilitant grandement l'évacuation de lieu recevant d'important flux de visiteurs."
+            ],
+        "list1":[
+            "💡 Éclairage d'évacuation. En indiquant le chemin, les obstacles et les issus à emprunter. L'éclairage d'évacuation doit être installé à chaque embranchement ou changement de direction afin de baliser efficacement la route à prendre.",
+            "💡 Éclairage d'ambiance. Les blocs lumineux du système d'éclairage de sécurité doivent dégager suffisamment de lumière afin de pouvoir apporter un minimum d'éclairage en cas de défaillance de l'éclairage central."
+        ],
+       
+        "list3":[
+            "💡 Le bloc d'éclairage doit pouvoir être alimenté en énergie en cas de coupure générale. Soit par un relai externe comme un groupe électrogène, soit par une batterie interne. La batterie doit être chargée en permanence afin d'assurer un éclairage d'une intensité et d'une durée suffisante en cas d'incendie.",
+            "💡 Les blocs d'éclairage de sécurité doivent être éteints dans les ERT et ERP une fois que les bâtiments sont inaccessibles. Les blocs d'éclairages doivent être éteints lorsque l'éclairage général est coupé afin d'éviter qu'il se décharge, ils reviennent ensuite à un état normal de veille une fois que l'éclairage normal est rétabli."
+        ]
     }
 ]

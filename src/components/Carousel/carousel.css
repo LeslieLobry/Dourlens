@@ -55,7 +55,8 @@
 }
 
 .carousel-root {
-    outline: none
+    outline: none;
+    margin: 15px;
 }
 
 .carousel {
@@ -222,10 +223,11 @@
 }
 
 .carousel .slide img {
-    width: 60%;
+    width: 100%;
     vertical-align: top;
     border: 0;
     height: 200px;
+    object-fit: cover;
 }
 
 .carousel .slide iframe {
