@@ -1,0 +1,47 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 2rem;
+}
+.input{
+    width: 25%;
+    height: 30px;
+    color: white;
+    background-color: #bf1d1d;
+    border-radius: 20px;
+}
+.input2{
+    width: 25%;
+    height: 60px;
+    background-color: #bf1d1d;
+    color: white;
+    border-radius: 20px;
+    padding-top: 0.5rem;
+}
+.input3{
+    width: 15%;
+    height: 30px;
+    border-radius: 25px;
+    background-color: #bf1d1d;
+    color: white;
+}
+.input, 
+.input2{
+    padding-left: 1rem;
+}
+.label{
+    color: white;
+    font-size: 25px;
+}
+@media screen and (max-width:750px){
+    .input,
+    .input2{
+        width: 70%;
+    }
+    .input3{
+        width: 50%;
+    }
+}

@@ -6,8 +6,8 @@
     padding: 1rem;
     width: 100%;
     min-height: 75px;
-    background-color: red;
-    color: white;
+    background-color:white; 
+    color: red;
     position: fixed;
 }
 
@@ -17,8 +17,9 @@
 }
 .navbar__link{
     padding: 0 0.3rem;
-    color: inherit;
+    color: #9E9B9C;
     font-size: 25px;
+    font-weight: 900;
 }
 .navbar__link:hover{
     text-decoration: overline #9E9B9C;
@@ -26,7 +27,7 @@
 .navbar__burger{
     width: 40px;
     height: 40px;
-    background: transparent;
+    background: #9E9B9C;
     color: inherit;
     display: none;
 }
@@ -43,7 +44,7 @@
         height: 100vh;
         padding: 2rem;
         visibility: hidden;
-        background-color: red;
+        background-color: #bf1d1d;
         transition: all .8s ease-out;
     }
 
