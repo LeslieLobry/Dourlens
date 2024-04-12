@@ -5,7 +5,10 @@ function Presentation (){
 return(
 <div className="presentation-contenant">
    <div className="presentation-titre"><h2>Dourlens - Protection - Incendie</h2></div>
-   <div className="presentation-titre2"><h2>Fourniture, Installation et Maintenance Système de Sécurité Incendie (SSI)</h2></div>
+   <div className="presentation">
+    <div className="presentation-partie-1">
+   <div className="presentation-titre2">
+    <h2>Fourniture, Installation et Maintenance Système de Sécurité Incendie (SSI)</h2></div>
     <div className="presentation-text">
         <p>Spécialiste dans le domaine des systèmes de sécurité incendie (SSI) depuis plus de 12 ans, DPI vous offre ses
             services pour la fourniture, l'installation, la vérification et la maintenance de tout équipement d'alarme.
@@ -13,6 +16,7 @@ return(
             prévention, d'évacuation et de lutte contre les incendies. Que vous soyez un professionnel ou un
             particulier, votre sécurité reste notre priorité absolue.
         </p>
+    </div>
     </div>
     <div className="presentation-valeurs">
         <div className="presentation-valeurs-titre">
@@ -25,6 +29,8 @@ return(
             <li>🚨Une relation de proximité avec le client</li>
         </ul>
     </div>
+   </div>
+  
     <Carousel/>
 </div>
 )

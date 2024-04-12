@@ -7,19 +7,29 @@
     background-size: cover;
     width: 100%;
 }
+.presentation{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.presentation-partie-1{
+    padding-left: 3rem;
+}
 .presentation-titre{
     display: flex;
     justify-content: center;
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 .presentation-titre2{
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    color: red;
+}
+.presentation-titre2 h2{
+    color: white;
 }
 .presentation-titre h2{
-    font-size: 30px;
+    font-size: 50px;
 }
 .presentation-text{
     padding: 0 5rem;
@@ -34,7 +44,7 @@
     gap: 1rem;
 }
 .presentation-valeurs-titre{
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 .presentation-valeurs-titre h2{
@@ -42,6 +52,7 @@
 }
 .presentation-valeurs-contenu{
     display: flex;
+    flex-direction: column;
     font-size: 18px;
     gap: 25px;
 }
