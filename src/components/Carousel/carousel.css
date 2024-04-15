@@ -57,8 +57,8 @@
 .carousel-root {
     outline: none;
     margin: 15px;
-    width: 25rem;
-    height: 15rem;
+    width: 34%;
+    height: 16rem;
 }
 
 .carousel {
@@ -145,8 +145,8 @@
     position: relative;
     margin: 0;
     overflow: hidden;
-    width: 25rem;
-    height: 15rem;
+    width: 34%;
+    height: 100%;
 }
 
 .carousel.carousel-slider .control-arrow {
@@ -227,8 +227,7 @@
 }
 
 .carousel .slide img {
-    width: 25rem;
-    height: 15rem;
+    width: 100%;
     vertical-align: top;
     border: 0;
     object-fit: cover;

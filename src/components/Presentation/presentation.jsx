@@ -6,7 +6,6 @@ return(
 <div className="presentation-contenant">
    <div className="presentation-titre"><h2>Dourlens - Protection - Incendie</h2></div>
    <div className="presentation">
-    <div className="presentation-partie-1">
    <div className="presentation-titre2">
     <h2>Fourniture, Installation et Maintenance Système de Sécurité Incendie (SSI)</h2></div>
     <div className="presentation-text">
@@ -18,7 +17,8 @@ return(
         </p>
     </div>
     </div>
-    <div className="presentation-valeurs">
+    <div className="partie2">
+      <div className="presentation-valeurs">
         <div className="presentation-valeurs-titre">
             <h2>Nos valeurs : </h2>
         </div>
@@ -28,11 +28,10 @@ return(
             <li>🚨Un interlocuteur unique</li>
             <li>🚨Une relation de proximité avec le client</li>
         </ul>
+    
     </div>
-   </div>
-  
     <Carousel/>
-</div>
+</div></div>
 )
 }
 export default Presentation
