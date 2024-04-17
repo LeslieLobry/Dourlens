@@ -19,6 +19,7 @@ return(
         <p>{product.texte1}</p>
     </div>
     </div>
+    <div className="categorie-bloc-bas">
     <div className="categorie-bloc-2">
         <div className="categorie-bloc-2-titre">
             <h3>{product.titre2}</h3>
@@ -62,7 +63,7 @@ return(
                     <li>{product.list3[2]}</li>
         </ul>
     </div>
-
+    </div>
 </div>
 )
 }

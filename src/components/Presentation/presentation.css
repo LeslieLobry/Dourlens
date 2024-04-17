@@ -7,6 +7,11 @@
     background-size: cover;
     width: 100%;
     align-items: center;
+    padding-bottom: 3rem;
+}
+.presentation-contenant h2{
+    color: #bf1d1d;
+    font-size: 30px;
 }
 .presentation{
     display: flex;
@@ -17,7 +22,7 @@
     margin: 15px;
     background-color: white;
     gap: 15px;
-    width: 81%;
+    width: 85%;
 }
 .presentation-partie-1{
     padding-left: 3rem;
@@ -31,10 +36,7 @@
     flex-direction: column;
     justify-content: center;
 }
-.presentation-titre2 h2{
-    color: red; 
-    font-size: 30px;
-}
+
 .presentation-titre h2{
     font-size: 50px;
 }
@@ -49,14 +51,9 @@
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-    width: 34%;
-    height: 100%;
     border: 2px black solid;
     padding: 1rem;
     background: white;
-}
-.presentation-valeurs-titre{
-    text-decoration: underline;
 }
 .presentation-valeurs-titre h2{
     font-size: 30px;
@@ -68,14 +65,42 @@
     gap: 25px;
 }
 .partie2{
-    display: flex;
+    display: grid;
     width: 100%;
-   justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
+.presentation-prestation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px black solid;
+    background-color: white;
+    width: 85%;
+    padding: 15px;
+    gap: 10px;
+}
+.elmt1, 
+.elmt2,
+.elmt3 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.presentation-elmt{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 @media screen and (max-width:750px){
     .partie2{
         display: flex;
         flex-direction: column;
+        padding: 0;
     }
     .presentation-contenant{
         padding-left: 2%;
@@ -89,6 +114,12 @@
         font-size: 33px;
     }
     .presentation{
+        width: 100%;
+    }
+    .partie2{
+        gap: 3rem;
+    }
+    .presentation-prestation{
         width: 100%;
     }
 }

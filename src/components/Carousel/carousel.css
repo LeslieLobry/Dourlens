@@ -56,8 +56,6 @@
 
 .carousel-root {
     outline: none;
-    margin: 15px;
-    width: 34%;
     height: 16rem;
 }
 
@@ -317,4 +315,10 @@
 
 .carousel:hover .slide .legend {
     opacity: 1
+}
+
+@media screen and (max-width:750px){
+    .carousel-root{
+        width: 100%;
+    }
 }
