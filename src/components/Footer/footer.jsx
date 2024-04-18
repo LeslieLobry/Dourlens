@@ -1,7 +1,7 @@
 import "../Footer/footer.css"
 import dpi from "../../assets/dpi.jpeg"
 import { Link } from "react-router-dom"
-
+import Callme from "../Callme/callme"
 
 
 function Footer (){
@@ -34,6 +34,7 @@ return(
     </div>
     <div className="footer-liens-contenant">
         <Link to={`contact`}className="footer-contact"><button>Contact</button></Link>
+        <Callme />
         <div className="footer-liens">
             <Link to={`mentions`}className="footer-mentions">Mentions Légales</Link>
             <a href="https://www.laulieweb.com" className="footer-copyright">©Laulie Web</a>

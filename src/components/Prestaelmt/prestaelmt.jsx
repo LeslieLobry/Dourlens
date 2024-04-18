@@ -64,6 +64,10 @@ return(
         </ul>
     </div>
     </div>
+    <div className="devis">
+        <h2>Devis pour {product.titre}</h2>
+        <span>N'hésitez pas à nous contacter dès maintenant. Nous sommes impatients de discuter avec vous et de vous fournir un devis gratuit.</span>
+    </div>
 </div>
 )
 }

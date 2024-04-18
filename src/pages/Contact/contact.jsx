@@ -1,6 +1,6 @@
 import Form from "../../components/Form/form"
 import "../Contact/contact.css"
-import Callme from "../../components/Callme/callme"
+
 
 function Contact(){
 return(
@@ -11,7 +11,6 @@ return(
     </div>
     <Form />
     </div>
-  <Callme />
 </div>
 )
 }

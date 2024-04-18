@@ -10,6 +10,7 @@ e.preventDefault();
     (result) => {
         console.log(result.text);
         alert("Nous traitons votre demande au plus vite ")
+        
     },
     (error) => {
         console.log(error.text);
@@ -19,15 +20,15 @@ e.preventDefault();
     
 };
 return (
-    <form ref={form} className="form" onSubmit={sendEmail}>
+    <form ref={form} className="form1" onSubmit={sendEmail}>
     <label className="label">Name</label>
-    <input type="text" name="user_name" className="input"required />
+    <input type="text" name="user_name" className="input1"required />
     <label className="label">Email</label>
-    <input type="email" name="user_email" className="input"required />
+    <input type="email" name="user_email" className="input1"required />
     <label className="label">Téléphone</label>
-    <input type="text" name="user_tel" className="input"required />
+    <input type="text" name="user_tel" className="input1"required />
     <label className="label">Adresse</label>
-    <input type="text" name="user_tel" className="input"required />
+    <input type="text" name="user_tel" className="input1"required />
     <label className="label">Message</label>
     <textarea name="message" required className="input2"/>
     <input type="submit" value="Envoyer" className="input3" />

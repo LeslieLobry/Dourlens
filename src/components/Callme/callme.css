@@ -1,0 +1,10 @@
+.callme-contenant{
+    border-radius: 15px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

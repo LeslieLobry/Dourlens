@@ -7,6 +7,7 @@ import Mentions from "./pages/Mentions/mentions";
 import Footer from "./components/Footer/footer";
 import Prestation from "./pages/Prestation/prestation";
 import Categorie from "./pages/Categorie/categorie";
+import Callme from "./components/Callme/callme";
 import "./app.css"
 
 function App() {

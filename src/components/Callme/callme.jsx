@@ -21,20 +21,18 @@ e.preventDefault();
     
 };
     return(
-        <div className="callme-contenant">
+        <button className="callme-contenant">
             <div className="callme-emoticone"onClick={()=>close(!open)}>
                 <span> ☎️</span>
-                <div className="title">Me rappeler!</div>
+                <div className="title">Me rappeler</div>
             </div>
-            <div className="callme-contenant">
                 {open && <div className="callme-cache">
-                <input type="text" name="user_tel" className="input"required />
-    <label className="label">Adresse</label>
-                    <input type="submit" value="Envoyer" className="input3" />
-                </div>  
+                <form ref={form} className="form" onSubmit={sendEmail}>
+                <input type="text" name="user_tel" className="call-me-input"required />
+                <input type="submit" value="Envoyer" className="call-me-envoyer" />
+                </form></div>  
                  }
-            </div>
-        </div>
+        </button>
     )
 }
 export default Callme
