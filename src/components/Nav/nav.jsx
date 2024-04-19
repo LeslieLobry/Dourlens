@@ -11,6 +11,9 @@ function Nav (){
     }
     return(
             <nav className={`navbar ${showLinks ? "show-nav" : "hide-nav"}`}>
+                <button className="navbar__burger"onClick={handleShowLinks}>
+                    <span className="burger-bar"></span>
+                </button>
                 <Link to="/" className="navbar__logo"><img src={dpi} alt="protection incendie nord"></img></Link>
                 <ul className="navbar__links">
                     <li className="nav__items">
@@ -23,9 +26,7 @@ function Nav (){
                         <a href="/Contact" className="navbar__link">Contact</a>
                     </li>
                 </ul>
-                <button className="navbar__burger"onClick={handleShowLinks}>
-                    <span className="burger-bar"></span>
-                </button>
+                
             </nav>
     )
 }
