@@ -1,6 +1,6 @@
 import "../Prestaelmt/prestaelmt.css"
 import prestation from "../../data/prestation.json"
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import Erreur from "../../pages/Erreur/erreur"
 
 function Prestaelmt (){
@@ -66,8 +66,10 @@ return(
     </div>
     <div className="devis">
         <h2>Devis pour {product.titre}</h2>
-        <span>N'hésitez pas à nous contacter dès maintenant. Nous sommes impatients de discuter avec vous et de vous fournir un devis gratuit.</span>
+        <span>N'hésitez pas à nous contacter dès maintenant. Nous sommes impatients de discuter avec vous et de vous fournir un devis</span>
+        <Link to={`/Contact`} className="devis-contact">Contactez-nous</Link>
     </div>
+    <Link to={`/Prestation`}className="link-prestation"><button className="button-presta"><p>Nos prestation</p></button></Link>
 </div>
 )
 }

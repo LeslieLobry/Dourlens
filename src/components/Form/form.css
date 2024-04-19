@@ -39,9 +39,12 @@
 @media screen and (max-width:750px){
     .input,
     .input2{
-        width: 70%;
+        width: 80%;
     }
     .input3{
         width: 50%;
+    }
+    .input1{
+        width: 80%;
     }
 }

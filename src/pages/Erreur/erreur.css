@@ -1,0 +1,16 @@
+.erreur-contenant{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15rem;
+    gap: 2rem;
+    padding-bottom: 1rem;
+}
+.erreur-404{
+    font-size: 15rem;
+    color: #bf1d1d;
+}
+.erreur-lien{
+    font-size: 3rem;
+    color: #bf1d1d;
+}

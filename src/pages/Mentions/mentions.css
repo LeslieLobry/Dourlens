@@ -1,0 +1,12 @@
+.mention-contenant{
+    padding-top: 11rem;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-image: url(https://i.postimg.cc/qvhpDx75/i-Stock-840576078.jpg);
+    background-size: cover;
+    padding-right: 25px; 
+    padding-left: 25px;
+    color: white;
+    padding-bottom: 25px;
+}

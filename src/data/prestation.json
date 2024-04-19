@@ -34,9 +34,11 @@
         "img":"https://i.postimg.cc/yNTdjqq9/pexels-oluwaseun-duncan-189474.jpg",
         "titre1":"Fourniture, Installation et Maintenance RIA" ,
         "titre2":"Fourniture et Maintenance de RIA",
-        "titre3":"Les robinets d'incendie armés se présentent sous différentes formes, chacune possédant ses propres spécificités :",
+        "titre3":"Les robinets d'incendie armés :",
+        "titre4":"Normes et réglementations",
         "texte1":"Le Robinet d'Incendie Armé (RIA) est constitué d'un tuyau enroulé autour d'un cylindre, également connu sous le nom de dévidoir, et équipé d'une petite lance à incendie. Il est directement connecté au réseau principal d'eau pour être constamment alimenté en cas d'urgence. Grâce à la pression générée, le RIA permet de projeter de l'eau à une distance suffisante pour lutter contre les flammes tout en maintenant une distance de sécurité adéquate.",
         "texte2":"Les robinets d'incendie armés représentent un type d'extincteur hautement efficace en cas d'incendie. Leur capacité et leur durée d'action permettent à toute personne, même non formée à leur utilisation, de lutter contre les flammes avec un équipement capable de ralentir considérablement leur propagation.        Installés à l'intérieur des établissements professionnels et des lieux recevant du public, les RIA sont positionnés dans les zones à risque élevé d'incendie. Il est important de noter que l'utilisation de ces extincteurs ne remplace pas l'intervention des pompiers ; ils servent principalement à contenir l'incendie plutôt qu'à l'éteindre complètement.",
+        "texte4":"L'installation et l'entretien des RIA sont réglementés par des normes de sécurité incendie nationales ou internationales, telles que les normes NFPA (National Fire Protection Association) ou les normes européennes. Ces normes définissent les exigences de conception, d'installation et de maintenance des RIA pour assurer leur efficacité en cas d'incendie.",
         "list2":[
             "🧯RIA tournant pivotant. Parmi les RIA les plus répandus, les tournants pivotants sont posés sur un mur et permettent un débattement de 180° afin de dispoer de toute la mobilité nécessaire pour combatte l'incendie.",
             "🧯RIA tournant fixe. Très répandu aussi, ce type de RIA ne peut pas être décollé du mur pour pivoter, idéal pour les endroits éxigus. Aussi efficac qu'un RIA tournant pivotant, le tournant fixe offre une mobilité moindre.",
@@ -122,8 +124,8 @@
         "titre":"Défibrillateur", 
         "img":"https://i.postimg.cc/xChXZW5d/pexels-patrick-17527783.jpg",
         "titre1":"Fourniture et Maintenance de Défibrillateur" ,
-        "titre2":"Défibrillateur : Quelles sont les obligations pour les ERP",
-        "titre3":"Défibrillateur : Quelles Obligations pour les Entreprises ?",
+        "titre2":"Quelles sont les obligations pour les ERP",
+        "titre3":"Quelles Obligations pour les Entreprises ?",
         "titre4":"Qui peut Utiliser un Défibrillateur ?",
         "texte1":"Le défibrillateur, souvent désigné par l'acronyme DAE pour Défibrillateur Automatisé Externe, est un équipement médical crucial pour traiter les arrêts cardiaques soudains et potentiellement mortels. Depuis leur déploiement en France à partir de 2007, les défibrillateurs ont déjà contribué à sauver des dizaines de milliers de vies.",
         "texte2":"Depuis leur introduction, les obligations relatives aux défibrillateurs automatisés externes (DAE) n'ont cessé d'évoluer pour renforcer la sécurité. DPI (Dourlens - Protection - Incendie) accompagne les établissements recevant du public, les administrations, les collectivités et les entreprises dans la fourniture, l'installation, la signalisation et la maintenance de leurs défibrillateurs.Par exemple, depuis 2019, il est désormais obligatoire de bien signaler la présence d'un DAE aux abords des ERP ou des lieux publics. Depuis 2021, un plus grand nombre de lieux sont concernés par l'installation obligatoire d'un défibrillateur, ainsi que par la signalisation appropriée pour une intervention rapide en cas d'urgence.",
@@ -169,24 +171,23 @@
         "titre":"Equipements", 
         "img":"https://i.postimg.cc/FKr6SW2W/i-Stock-935714362.jpg",
         "titre1":"Fourniture d'Équipement Incendie" ,
+        "titre3":"Les équipements sont :",
         "titre2":"",
-        "titre3":"",
-        "titre4":"",
-        "texte1":"DPI (Dourlens - Protection - Incendie) propose aux entreprises une gamme complète d'équipements et de consommables pour la prévention et la lutte contre les incendies. Parmi nos produits disponibles, vous trouverez des extincteurs, des RIA, des plans de sécurité, des éclairages de secours, ainsi que divers accessoires indispensables pour la gestion des situations d'incendie.Explorez notre sélection d'équipements pour répondre à vos besoins spécifiques en matière de sécurité incendie :",
-        "texte2":"",
+        "titre4":"Mais aussi :",
+        "texte2":"DPI (Dourlens - Protection - Incendie) propose aux entreprises une gamme complète d'équipements et de consommables pour la prévention et la lutte contre les incendies. Parmi nos produits disponibles, vous trouverez des extincteurs, des RIA, des plans de sécurité, des éclairages de secours, ainsi que divers accessoires indispensables pour la gestion des situations d'incendie.Explorez notre sélection d'équipements pour répondre à vos besoins spécifiques en matière de sécurité incendie :",
+        "texte1":"",
         "texte3":"",
-        "list1":[
+        "list2":[
             "✔️  Couverture anti-feu",
             "✔️  Bac à sable incendie",
             "✔️  Seau incendie",
-            "✔️  Pelle incendie",
-            "✔️  Fusée pour feu de cheminée",
+            "✔️  Pelle incendie"
+        ],
+        "list1":[],
+        "list3":["✔️  Fusée pour feu de cheminée",
             "✔️  Housse pour extincteur",
             "✔️  Housse RIA",
-            "✔️  Bâche chauffante pour RIA"            
-        ],
-        "list2":[],
-        "list3":[]
+            "✔️  Bâche chauffante pour RIA"   ]
     }, 
     {
         "id":"29",

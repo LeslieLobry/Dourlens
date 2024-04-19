@@ -1,13 +1,17 @@
 .footer-contenant{
     display: flex;
     flex-direction: row;
-    background: red;
+    background:#bf1d1d; 
     justify-content: space-between;
     align-items: center;
     padding:1rem;
+    gap: 15px;
 }
 .footer-coordonnées{
     color: white;
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
 }
 .footer-tel{
     display: flex;

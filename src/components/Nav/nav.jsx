@@ -1,6 +1,7 @@
 import "./nav.css"
 import { useState } from "react"
 import dpi from "../../assets/dpi.jpeg"
+import { Link } from "react-router-dom"
 
 function Nav (){
     const [showLinks, setShowLinks] = useState(false)
@@ -10,7 +11,7 @@ function Nav (){
     }
     return(
             <nav className={`navbar ${showLinks ? "show-nav" : "hide-nav"}`}>
-                <div className="navbar__logo"><img src={dpi} alt="protection incendie nord"></img></div>
+                <Link to="/" className="navbar__logo"><img src={dpi} alt="protection incendie nord"></img></Link>
                 <ul className="navbar__links">
                     <li className="nav__items">
                         <a href="/" className="navbar__link">Accueil</a>
