@@ -24,6 +24,9 @@
 .categorie-bloc-1-text{
     width: 80%;
 }
+.categorie-bloc-1-text p {
+    color: white;
+}
 .categorie-bloc-1-text p{
     font-size: 18px;
 }
@@ -48,7 +51,9 @@
 }
 .categorie-contenant p, li{
     font-size: 18px;
+    
 }
+
 .categorie-bloc-3{
     display: flex;
     flex-direction: column;
